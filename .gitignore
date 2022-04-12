@@ -34,3 +34,9 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# [rails6] fullcalendar 攻略ガイド(導入、表示編) 参考に作成
+# https://qiita.com/rakko1124/items/faa93cb7e81e312b9ae3
+
+# [rails6] fullcalendar 攻略ガイド(予定追加、予定表示編)
+# https://qiita.com/rakko1124/items/e9c3f8dccde6e2c11869
